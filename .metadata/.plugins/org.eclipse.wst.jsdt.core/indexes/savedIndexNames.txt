@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/Users/andrewmason/ToolsQA/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2287808529.index
+63162991.index
+902295545.index
+4246677085.index
+2031022832.index
+1950593252.index
